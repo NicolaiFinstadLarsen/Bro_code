@@ -18,7 +18,8 @@ random.shuffle(cards)
 random.shuffle(suits)
 
 
-print(x)
-print(y)
-print(z)
-print(suits[1],cards[1]) #velger kortet på index 1
+# print(x)
+# print(y)
+# print(z)
+# print(suits[1],cards[1]) #velger kortet på index 1
+print(cards)
